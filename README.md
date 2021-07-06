@@ -1,12 +1,12 @@
 # About the Project
-The goal of the project was to automate the loan elibility process for home buyer using customers online application forms. The details used are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and more. 
+The goal of the project was to automate the loan elibility process for home buyers using customers online application forms. The details used are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and more. 
 
 ## Steps: 
 1. Preprocessing Dataset
 2. Model Selection (Random Forest Classification)
 3. Train Model
 4. Check prediction on test data
-5. Check Feature Importance
+5. Check feature importance
 6. Implement Hypter-Parameters (GridSearchCV & RandomizedSearchCV)
 7. Classification Report
 8. ROC Curves
