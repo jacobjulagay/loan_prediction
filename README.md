@@ -16,6 +16,7 @@ Accuracy Score (Before Hyper-Parameters): 69%
 Accuaracy Score (After Hypter-Parameters): 72%
 
 
+
 ### Confusion Matrix and Classification Report (Before Hyper-Parameters)
 ![testing](before_hyperparameters.png)
 
@@ -23,7 +24,7 @@ Accuaracy Score (After Hypter-Parameters): 72%
 ![testing](after_hyperparameters.png)
 
 
-### ROC CurvesRORO
+### ROC Curves
 ![roc_curves](roc_curves.png)
 
 ## Technologies
