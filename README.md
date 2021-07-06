@@ -17,17 +17,17 @@ Accuaracy Score (After Hypter-Parameters): 72%
 
 
 
-# Confusion Matrix and Classification Report (Before Hyper-Parameters)
+## Confusion Matrix and Classification Report (Before Hyper-Parameters)
 ![testing](before_hyperparameters.png)
 
-# Confusion Matrix and Classification Report (After Hyper-Parameters)
+## Confusion Matrix and Classification Report (After Hyper-Parameters)
 ![testing](after_hyperparameters.png)
 
 
-# ROC Curves
+## ROC Curves
 ![roc_curves](roc_curves.png)
 
-# Technologies
+### Technologies
 * Python
   * scikit-learn
   * Pandas
